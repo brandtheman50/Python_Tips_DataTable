@@ -1,6 +1,3 @@
-from calendar import c
-from doctest import script_from_examples
-from sys import setswitchinterval
 from tkinter import *
 from tkinter import ttk, messagebox
 from tkcalendar import DateEntry
